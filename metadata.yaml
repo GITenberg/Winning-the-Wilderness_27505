@@ -16,6 +16,8 @@ creator:
     gutenberg_agent_id: '613'
     url: http://www.gutenberg.org/2009/agents/613
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/27505#Winning-the-Wilderness
 gutenberg_issued: '2008-12-12'
 gutenberg_type: Text
 identifiers:
