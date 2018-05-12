@@ -1,0 +1,32 @@
+_repo: Winning-the-Wilderness_27505
+_version: 0.1.0
+contributor:
+  illustrator:
+    agent_name: Marchand, J. N.
+    gutenberg_agent_id: '6834'
+    url: http://www.gutenberg.org/2009/agents/6834
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: McCarter, Margaret Hill
+    birthdate: 1860
+    deathdate: 1938
+    gutenberg_agent_id: '613'
+    url: http://www.gutenberg.org/2009/agents/613
+description: ''
+gutenberg_issued: '2008-12-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '27505'
+  lccn: '14016470'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Frontier and pioneer life -- Kansas -- Fiction'
+- !lcc 'PS'
+title: Winning the Wilderness
+url: http://www.gutenberg.org/ebooks/27505
